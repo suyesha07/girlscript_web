@@ -64,6 +64,7 @@ If you’re interested in the project, feel free to open an issue, create a PR, 
 6. Create a new Pull Request
 
 ## Participation Guidelines
+We are following GS Cup Participation, for more details click [here] https://www.girlscript.tech/gscup
 We are following Google Summer of Code Participation Guidelines, please have a look at it [here.](https://summerofcode.withgoogle.com/rules/) 
 
 ## License
